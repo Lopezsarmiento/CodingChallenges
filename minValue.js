@@ -14,6 +14,7 @@ const solution = (arr1, arr2) => {
     return value
 }
 
+
 console.log(solution([1,2,3], [8,9,7])) // 1
 console.log(solution([2,3], [8,9,7])) // 2
 console.log(solution([3,6], [8,9,7])) // 3
